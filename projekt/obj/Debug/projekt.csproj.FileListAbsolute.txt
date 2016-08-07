@@ -1,0 +1,9 @@
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\bin\Debug\Dodglebee.exe.config
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\bin\Debug\Dodglebee.exe
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\bin\Debug\Dodglebee.pdb
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\obj\Debug\Dodglebee.Properties.Resources.resources
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\obj\Debug\Dodglebee.exe
+C:\Users\TheDu\Documents\Visual Studio 2015\Projects\projekt\projekt\obj\Debug\Dodglebee.pdb
